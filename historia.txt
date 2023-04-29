@@ -2,4 +2,6 @@ Ola k ase
 
 Agregado por vlad!
 
+Este es un cambio hecho a partir de copiar el proyecto de github con otro usuario!
+
 Está modificando o k ase
